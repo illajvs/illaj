@@ -1,0 +1,61 @@
+{
+  "app": {
+    "errorTitle": "Invitation Not Found",
+    "errorDesc": "Please check your URL or contact the organizer.",
+    "preparing": "Preparing"
+  },
+  "nav": {
+    "home": "Главная",
+    "event": "Events",
+    "location": "Location",
+    "gifts": "Gifts",
+    "wishes": "Wishes"
+  },
+  "landing": {
+    "saveTheDate": "Запомните дату",
+    "openInvitation": "Откройте приглашение"
+  },
+  "hero": {
+    "marriageTitle": "Мы собираемся пожениться",
+    "guestFallback": "Дорогие наши! Мы рады пригласить Вас на наш праздник",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds"
+  },
+  "events": {
+    "saveTheDate": "Запомните дату",
+    "title": "Запомните",
+    "subtitle": "Мы сердечно приглашаем вас отпраздновать этот особенный день как начало нашего любовного путешествия",
+    "addToCalendar": "Add to Calendar",
+    "googleCalendar": "Google Calendar",
+    "appleCalendar": "Apple Calendar",
+    "outlookCalendar": "Outlook Calendar"
+  },
+  "location": {
+    "eventVenue": "Event Venue",
+    "title": "Location",
+    "viewMap": "View Map"
+  },
+
+  "wishes": {
+    "subTitle": "Send Your Best Wishes and Prayers",
+    "title": "Wishes & Prayers",
+    "emptyState": "No messages yet. Be the first to share one!",
+    "attending": "Attending",
+    "notAttending": "Cannot attend",
+    "maybe": "Maybe",
+    "nameLabel": "Your Name",
+    "namePlaceholder": "Enter your name...",
+    "attendanceLabel": "Will you attend?",
+    "attendancePlaceholder": "Select attendance...",
+    "wishLabel": "Your wish",
+    "wishPlaceholder": "Send your wishes and prayers to the couple...",
+    "sending": "Sending...",
+    "sendButton": "Send Wish",
+    "thankYou": "Thank You!",
+    "successMessage": "Your message and wishes have been sent. We deeply appreciate your kind words.",
+    "oneMessageLimit": "Each guest can only submit one message.",
+    "close": "Close"
+  }
+}
